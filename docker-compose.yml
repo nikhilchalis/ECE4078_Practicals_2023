@@ -4,7 +4,7 @@ services:
     build: .
     user: root
     ports:
-      - 8888:8888
+      - 9000:9000
       - 8080-8089:8080-8089
     container_name: ece4078-prac
     volumes:
@@ -14,5 +14,5 @@ services:
       --NotebookApp.default_url=/lab/ \
       --ip=0.0.0.0 \
       --allow-root \
-      --port=8888"
+      --port=9000"
     
