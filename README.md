@@ -58,6 +58,8 @@ Follow the instructions there to install Docker or use the command line:
 - Copy link to web browser
 - Start Using
 
+Note, if you have problem with "name already exists", you can run `docker stop $(docker ps -aq) && docker rm $(docker ps -aq)`
+
 This is a video of my attempt
 
 ## Other Methods
