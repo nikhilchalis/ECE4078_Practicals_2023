@@ -58,7 +58,9 @@ Follow the instructions there to install Docker or use the command line:
 - Copy link to web browser
 - Start Using
 
-Note, if you have problem with "name already exists", you can run `docker stop $(docker ps -aq) && docker rm $(docker ps -aq)`
+Note, if you have problem with "name already exists", you can run:
+- In Linux: `docker stop ece4078-prac && docker rm ece4078-prac`
+- In Windows Powershell: `docker stop ece4078-prac; docker rm ece4078-prac`
 
 This is a video of my attempt
 
