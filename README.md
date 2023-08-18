@@ -58,7 +58,9 @@ Follow the instructions there to install Docker or use the command line:
 - Copy link to web browser
 - Start Using
 
-Note, if you have problem with "name already exists", you can run `docker stop $(docker ps -aq) && docker rm $(docker ps -aq)`
+Note, if you have problem with "name already exists", you can run:
+- In Linux: `docker stop ece4078-prac && docker rm ece4078-prac`
+- In Windows Powershell: `docker stop ece4078-prac; docker rm ece4078-prac`
 
 This is a video of my attempt
 
@@ -80,6 +82,7 @@ Simply clicking on the badge of each week will land you in a page in which you c
 | Week01 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week01-dc4e1170-eda0-4978-bae3-0b7d9dd31a23)   |
 | Week02 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week02-c74347de-3fcf-48ba-9cb7-7d4d79d8612f)   |
 | Week03 | [<img src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/tinsirius/Week03/main) |
+| Week04 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week04-1797327e-631f-479b-aeaf-573e4d57cf92)   |
 
 # How to use Deepnote
 
