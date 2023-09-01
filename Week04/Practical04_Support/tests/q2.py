@@ -14,7 +14,7 @@ test = {
                     >>> rrtc.start_node_list = [rrtc.start]
                     >>> rrtc.end_node_list = [rrtc.end]
                     >>> false_cond = rrtc.check_trees_distance()
-                    >>> rrtc.start_node_list.append(rrtc.Node(1.0, 4.0))
+                    >>> rrtc.start_node_list.append(rrtc.Node(1.0, goal[-1]+expand_dis-0.01))
                     >>> true_cond = rrtc.check_trees_distance()
                     >>> true_cond and not false_cond
                     True
