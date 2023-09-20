@@ -64,6 +64,12 @@ Note, if you have problem with "name already exists", you can run:
 
 This is a video of my attempt
 
+If you have nvidia driver and NVIDIA container toolkit, and you want to run the docker with GPU, you can run
+
+```
+docker compose -f docker-compose-gpu.yml up --build --force-recreate
+```
+
 ## Other Methods
 
 Note that this repo is just a collection of jupyter notebooks, so if you already have a Python environment setup on your computer, feel free to use it. The repo includes `dependencies.txt` that lists all the dependencies (I didn't use `requirements.txt` because Deepnote will actually try to install stuff inside `requirements.txt` when it boots up which is redundant).
@@ -86,6 +92,9 @@ Simply clicking on the badge of each week will land you in a page in which you c
 | Week05 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week05-177bf025-31a4-47d8-8281-cefdb62cb46c) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinsirius/Week05/HEAD)|
 | Week06 | [<img src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/tinsirius/Week06/main) |
 | Week07 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week07-1d3d2bb8-7a44-4a7c-94d9-231f8303af12) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinsirius/Week07/HEAD)|
+| Week08 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week08-96d58a1b-ce7d-409d-abb6-f621bc97edef) [<img align="right" src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/tinsirius/Week08) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinsirius/Week08/HEAD) |
+
+
 
 # How to use Deepnote
 
