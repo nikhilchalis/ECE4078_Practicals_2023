@@ -93,6 +93,7 @@ Simply clicking on the badge of each week will land you in a page in which you c
 | Week06 | [<img src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/tinsirius/Week06/main) |
 | Week07 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week07-1d3d2bb8-7a44-4a7c-94d9-231f8303af12) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinsirius/Week07/HEAD)|
 | Week08 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week08-96d58a1b-ce7d-409d-abb6-f621bc97edef) [<img align="right" src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/tinsirius/Week08) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinsirius/Week08/HEAD) |
+| Week09 | [<img align="right" src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/tinsirius/Week09/blob/colab) |
 
 
 
