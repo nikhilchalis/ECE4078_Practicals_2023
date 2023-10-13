@@ -95,6 +95,7 @@ Simply clicking on the badge of each week will land you in a page in which you c
 | Week08 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ece4078-7216-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week08-96d58a1b-ce7d-409d-abb6-f621bc97edef) [<img  src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/tinsirius/Week08) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinsirius/Week08/HEAD) |
 | Week09 | [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/tinsirius/Week09/blob/colab) |
 | Week10 | [<img src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/tinsirius/Week10/main) |
+| Week11 | [<img src="https://mybinder.org/badge_logo.svg">](https://mybinder.org/v2/gh/tinsirius/Week11/main) |
 
 # How to use Deepnote
 
